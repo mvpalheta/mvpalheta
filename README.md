@@ -11,7 +11,7 @@ Sou cientista de dados com experiência profissional no desenvolvimento, deploy 
 <img align="center" alt="marc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="marc-SAS" height="30" width="70" src="https://github.com/mvpalheta/mvpalheta/blob/main/sas_logo_icon_white.png">  
 <img align="center" alt="marc-SQL" height="30" width="30" src="https://github.com/mvpalheta/mvpalheta/blob/main/SQL_icon.JPG">
-<img align="center" alt="marc-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="marc-Github" height="30" width="35" src="https://github.com/mvpalheta/mvpalheta/blob/main/github_icon_bw1.PNG">
 <img align="center" alt="marc-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 
 ## Onde você pode me encontrar
