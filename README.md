@@ -7,11 +7,17 @@ Sou cientista de dados com experiência profissional no desenvolvimento, deploy 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvpalheta&layout=compact&langs_count=7&theme=dracula">
 </div>
 
-### Tecnologias que eu uso no meu dia a dia  
-##
+## Tecnologias que utilizo no meu dia a dia  
 <img align="center" alt="marc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="marc-SAS" height="30" width="70" src="https://github.com/mvpalheta/mvpalheta/blob/main/sas_logo_icon.png">  
+<img align="center" alt="marc-SQL" height="30" width="30" src="https://github.com/mvpalheta/mvpalheta/blob/main/SQL_icon.JPG">
 <img align="center" alt="marc-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="marc-Heroku" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-          
+<img align="center" alt="marc-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+
+## Onde você pode me encontrar
+<div> 
+  <a href="https://www.linkedin.com/in/mvpalheta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:mvpalheta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+       
           
